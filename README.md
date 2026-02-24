@@ -33,3 +33,6 @@ streamlit run MovieIQ.py
 # 📁 Dataset
 Make sure the project includes a movies.csv file with the following columns:
  budget, revenue, popularity, runtime, vote_average, title, genres
+
+ # 📄 License
+This project is open source and available under the https://mit-license.org/.
