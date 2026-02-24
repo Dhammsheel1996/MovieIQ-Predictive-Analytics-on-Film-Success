@@ -22,7 +22,7 @@ SciPy
 
 # 🚀 Run Locally
 1. Clone the repository
-git clone https://github.com/nv2105/MovieIQ-Predictive-Analytics-on-Film-Success.git
+https://github.com/Dhammsheel1996/MovieIQ-Predictive-Analytics-on-Film-Success/blob/main/README.md
 cd MovieIQ-Predictive-Analytics-on-Film-Success
  
 2. Install dependencies
